@@ -1,0 +1,13 @@
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\bin\Debug\netcoreapp3.1\MonteCarle.exe
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\bin\Debug\netcoreapp3.1\MonteCarle.deps.json
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\bin\Debug\netcoreapp3.1\MonteCarle.runtimeconfig.json
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\bin\Debug\netcoreapp3.1\MonteCarle.runtimeconfig.dev.json
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\bin\Debug\netcoreapp3.1\MonteCarle.dll
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\bin\Debug\netcoreapp3.1\MonteCarle.pdb
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\obj\Debug\netcoreapp3.1\MonteCarle.csprojAssemblyReference.cache
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\obj\Debug\netcoreapp3.1\MonteCarle.AssemblyInfoInputs.cache
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\obj\Debug\netcoreapp3.1\MonteCarle.AssemblyInfo.cs
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\obj\Debug\netcoreapp3.1\MonteCarle.csproj.CoreCompileInputs.cache
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\obj\Debug\netcoreapp3.1\MonteCarle.dll
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\obj\Debug\netcoreapp3.1\MonteCarle.pdb
+C:\Visual Projects\IA\EXAMEN\MonteCarlo\MonteCarle\MonteCarle\obj\Debug\netcoreapp3.1\MonteCarle.genruntimeconfig.cache
