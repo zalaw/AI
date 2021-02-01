@@ -1,0 +1,10 @@
+C:\Visual Projects\IA\EXAMEN\WFALee\WFALee\bin\Debug\WFALee.exe.config
+C:\Visual Projects\IA\EXAMEN\WFALee\WFALee\bin\Debug\WFALee.exe
+C:\Visual Projects\IA\EXAMEN\WFALee\WFALee\bin\Debug\WFALee.pdb
+C:\Visual Projects\IA\EXAMEN\WFALee\WFALee\obj\Debug\WFALee.csprojAssemblyReference.cache
+C:\Visual Projects\IA\EXAMEN\WFALee\WFALee\obj\Debug\WFALee.Form1.resources
+C:\Visual Projects\IA\EXAMEN\WFALee\WFALee\obj\Debug\WFALee.Properties.Resources.resources
+C:\Visual Projects\IA\EXAMEN\WFALee\WFALee\obj\Debug\WFALee.csproj.GenerateResource.cache
+C:\Visual Projects\IA\EXAMEN\WFALee\WFALee\obj\Debug\WFALee.csproj.CoreCompileInputs.cache
+C:\Visual Projects\IA\EXAMEN\WFALee\WFALee\obj\Debug\WFALee.exe
+C:\Visual Projects\IA\EXAMEN\WFALee\WFALee\obj\Debug\WFALee.pdb
