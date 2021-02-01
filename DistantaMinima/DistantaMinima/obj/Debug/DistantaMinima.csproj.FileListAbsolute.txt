@@ -1,0 +1,10 @@
+C:\Visual Projects\IA\EXAMEN\DistantaMinima\DistantaMinima\bin\Debug\DistantaMinima.exe.config
+C:\Visual Projects\IA\EXAMEN\DistantaMinima\DistantaMinima\bin\Debug\DistantaMinima.exe
+C:\Visual Projects\IA\EXAMEN\DistantaMinima\DistantaMinima\bin\Debug\DistantaMinima.pdb
+C:\Visual Projects\IA\EXAMEN\DistantaMinima\DistantaMinima\obj\Debug\DistantaMinima.csprojAssemblyReference.cache
+C:\Visual Projects\IA\EXAMEN\DistantaMinima\DistantaMinima\obj\Debug\DistantaMinima.Form1.resources
+C:\Visual Projects\IA\EXAMEN\DistantaMinima\DistantaMinima\obj\Debug\DistantaMinima.Properties.Resources.resources
+C:\Visual Projects\IA\EXAMEN\DistantaMinima\DistantaMinima\obj\Debug\DistantaMinima.csproj.GenerateResource.cache
+C:\Visual Projects\IA\EXAMEN\DistantaMinima\DistantaMinima\obj\Debug\DistantaMinima.csproj.CoreCompileInputs.cache
+C:\Visual Projects\IA\EXAMEN\DistantaMinima\DistantaMinima\obj\Debug\DistantaMinima.exe
+C:\Visual Projects\IA\EXAMEN\DistantaMinima\DistantaMinima\obj\Debug\DistantaMinima.pdb
