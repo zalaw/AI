@@ -1,0 +1,13 @@
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\bin\Debug\netcoreapp3.1\Sisteme.exe
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\bin\Debug\netcoreapp3.1\Sisteme.deps.json
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\bin\Debug\netcoreapp3.1\Sisteme.runtimeconfig.json
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\bin\Debug\netcoreapp3.1\Sisteme.runtimeconfig.dev.json
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\bin\Debug\netcoreapp3.1\Sisteme.dll
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\bin\Debug\netcoreapp3.1\Sisteme.pdb
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\obj\Debug\netcoreapp3.1\Sisteme.csprojAssemblyReference.cache
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\obj\Debug\netcoreapp3.1\Sisteme.AssemblyInfoInputs.cache
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\obj\Debug\netcoreapp3.1\Sisteme.AssemblyInfo.cs
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\obj\Debug\netcoreapp3.1\Sisteme.csproj.CoreCompileInputs.cache
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\obj\Debug\netcoreapp3.1\Sisteme.dll
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\obj\Debug\netcoreapp3.1\Sisteme.pdb
+C:\Visual Projects\IA\EXAMEN\Sisteme\Sisteme\obj\Debug\netcoreapp3.1\Sisteme.genruntimeconfig.cache
