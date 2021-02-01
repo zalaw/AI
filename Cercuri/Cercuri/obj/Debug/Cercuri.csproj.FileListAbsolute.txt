@@ -1,0 +1,10 @@
+C:\Visual Projects\IA\EXAMEN\Cercuri\Cercuri\bin\Debug\Cercuri.exe.config
+C:\Visual Projects\IA\EXAMEN\Cercuri\Cercuri\bin\Debug\Cercuri.exe
+C:\Visual Projects\IA\EXAMEN\Cercuri\Cercuri\bin\Debug\Cercuri.pdb
+C:\Visual Projects\IA\EXAMEN\Cercuri\Cercuri\obj\Debug\Cercuri.csprojAssemblyReference.cache
+C:\Visual Projects\IA\EXAMEN\Cercuri\Cercuri\obj\Debug\Cercuri.Form1.resources
+C:\Visual Projects\IA\EXAMEN\Cercuri\Cercuri\obj\Debug\Cercuri.Properties.Resources.resources
+C:\Visual Projects\IA\EXAMEN\Cercuri\Cercuri\obj\Debug\Cercuri.csproj.GenerateResource.cache
+C:\Visual Projects\IA\EXAMEN\Cercuri\Cercuri\obj\Debug\Cercuri.csproj.CoreCompileInputs.cache
+C:\Visual Projects\IA\EXAMEN\Cercuri\Cercuri\obj\Debug\Cercuri.exe
+C:\Visual Projects\IA\EXAMEN\Cercuri\Cercuri\obj\Debug\Cercuri.pdb
