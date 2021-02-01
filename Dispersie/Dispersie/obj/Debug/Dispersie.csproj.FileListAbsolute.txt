@@ -1,0 +1,10 @@
+C:\Visual Projects\IA\EXAMEN\Dispersie\Dispersie\bin\Debug\Dispersie.exe.config
+C:\Visual Projects\IA\EXAMEN\Dispersie\Dispersie\bin\Debug\Dispersie.exe
+C:\Visual Projects\IA\EXAMEN\Dispersie\Dispersie\bin\Debug\Dispersie.pdb
+C:\Visual Projects\IA\EXAMEN\Dispersie\Dispersie\obj\Debug\Dispersie.csprojAssemblyReference.cache
+C:\Visual Projects\IA\EXAMEN\Dispersie\Dispersie\obj\Debug\Dispersie.Form1.resources
+C:\Visual Projects\IA\EXAMEN\Dispersie\Dispersie\obj\Debug\Dispersie.Properties.Resources.resources
+C:\Visual Projects\IA\EXAMEN\Dispersie\Dispersie\obj\Debug\Dispersie.csproj.GenerateResource.cache
+C:\Visual Projects\IA\EXAMEN\Dispersie\Dispersie\obj\Debug\Dispersie.csproj.CoreCompileInputs.cache
+C:\Visual Projects\IA\EXAMEN\Dispersie\Dispersie\obj\Debug\Dispersie.exe
+C:\Visual Projects\IA\EXAMEN\Dispersie\Dispersie\obj\Debug\Dispersie.pdb
